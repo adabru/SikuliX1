@@ -55,6 +55,9 @@ For use in **Java Maven projects** the dependency coordinates are:
   <version>2.0.5</version>
 </dependency>
 ```
+
+For a headstart you can download paul-hammant's [MySikuliExample](https://github.com/paul-hammant/MySikuliExample).
+
 <hr>
 
 **My Development environment**
